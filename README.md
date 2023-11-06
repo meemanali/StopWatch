@@ -4,7 +4,7 @@ Welcome to StopWatch repo. It contains a simple Stop Watch Android app. Some fea
 * Runs in a background thread, thus closing App doesn't effect Runnable.
 * Tested on Android Nexus 5 Api 26 and Android Pixel Pro Api 33.
 * Ultimate User Interface.
-* Able to handle errors.
+* Able to handle errors and solve them.
 
 # Preview:
 
